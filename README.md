@@ -1,4 +1,4 @@
-# Workshop-Second-Activity
+# Collaborative Story Time
 
 - Participants fork the repo
 - Add one sentence to the story
